@@ -12,4 +12,6 @@ hello git!!!!!!!!!!!  cccccccccccccccc
 使用ssh测试登录
 牛逼啊，ceeziin
 这是实验使用http方式
+这是实验使用ssh方式
+
 
